@@ -1,18 +1,18 @@
 <h1 align="center">Mobile Symbols Control (React Native - Expo)</h1>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/williamjayjay/symbols-app-mcode">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/williamjayjay/symbols-app-rn-expo-mcode">
 
-  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/williamjayjay/symbols-app-mcode" />
+  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/williamjayjay/symbols-app-rn-expo-mcode" />
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/williamjayjay/symbols-app-mcode">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/williamjayjay/symbols-app-rn-expo-mcode">
   
   <a href="https://github.com/williamjayjay/Github-Blog/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/williamjayjay/symbols-app-mcode">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/williamjayjay/symbols-app-rn-expo-mcode">
   </a>
     
-   <a href="https://github.com/williamjayjay/symbols-app-mcode/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/williamjayjay/symbols-app-mcode?style=social">
+   <a href="https://github.com/williamjayjay/symbols-app-rn-expo-mcode/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/williamjayjay/symbols-app-rn-expo-mcode?style=social">
   </a>
 </p>
 
@@ -53,7 +53,7 @@ Ensure the following steps are completed to run the app:
 
 1.**Clone the repository**:
 ```sh
-git clone https://github.com/williamjayjay/symbols-app-mcode
+git clone https://github.com/williamjayjay/symbols-app-rn-expo-mcode
 ```
 
 2.**Navigate to the root of the project symbols app mcode**
