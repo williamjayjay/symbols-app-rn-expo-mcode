@@ -25,10 +25,9 @@ This application focuses on listing and customizing Expo-Symbols with interactiv
 </p>
 
 ## VideoCase
-<!-- video here -->
+<p align="center">
 https://github.com/user-attachments/assets/4676a9ca-ca01-4901-b750-fef73c4f8dfa
-
-
+</p>
 
 ## 🥶 About the Project
 
