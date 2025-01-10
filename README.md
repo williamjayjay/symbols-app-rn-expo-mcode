@@ -1,50 +1,72 @@
-# Welcome to your Expo app 👋
+<h1 align="center">Mobile Symbols Control (React Native - Expo)</h1>
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/williamjayjay/symbols-app-mcode">
 
-## Get started
+  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/williamjayjay/symbols-app-mcode" />
 
-1. Install dependencies
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/williamjayjay/symbols-app-mcode">
+  
+  <a href="https://github.com/williamjayjay/Github-Blog/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/williamjayjay/symbols-app-mcode">
+  </a>
+    
+   <a href="https://github.com/williamjayjay/symbols-app-mcode/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/williamjayjay/symbols-app-mcode?style=social">
+  </a>
+</p>
 
-   ```bash
-   npm install
-   ```
+<p align="center">
+This application focuses on listing and customizing Expo-Symbols with interactive style controls using the `@react-native-segmented-control/segmented-control` library. The app features seamless navigation and an intuitive interface for experimenting with symbol styles such as colors, animations, and other visual properties.
+</p>
 
-2. Start the app
+<p align="center">
+<img alt="app_expo_symbols_control" src="github/assets/cover.png" />
+</p>
 
-   ```bash
-    npx expo start
-   ```
+## VideoCase
+<!-- video here -->
 
-In the output, you'll find options to open the app in a
+## 🥶 About the Project
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+I developed this project to enhance my knowledge of React Native, navigation, and dynamic UI styling. The goal is to provide a practical and visually engaging way to explore and customize the Expo-Symbols library.
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## Mobile React Native:
 
-## Get a fresh project
+**Application:** The app allows users to navigate through symbol options, adjust their styles interactively, and visualize changes in real time, leveraging segmented controls for a better user experience.
 
-When you're ready, run:
+## 🚀 Technologies
 
-```bash
-npm run reset-project
+Key technologies used in this application:
+
+- [Expo-Symbols](https://docs.expo.dev/versions/latest/sdk/symbols/)
+- [Segmented Control](https://docs.expo.dev/versions/latest/sdk/segmented-control/)
+
+## Getting Started
+
+To install and configure a local copy, follow these steps:
+
+### Prerequisites
+
+Ensure the following steps are completed to run the app:
+
+1.**Clone the repository**:
+```sh
+git clone https://github.com/williamjayjay/symbols-app-mcode
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+2.**Navigate to the root of the project symbols app mcode**
 
-## Learn more
+3.**Install the dependencies**:
+  ```sh
+  bun i
+  ```
 
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+4.**Run the application**:
+  ```sh
+  bun android
+  ```
+   or
+  ```sh
+  bun ios
+  ```
